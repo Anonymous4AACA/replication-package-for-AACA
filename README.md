@@ -1,8 +1,8 @@
-# AADA: Concept-level Attribution Analysis-based Data Augmentation for Human-centered Data Debugging.
+# AACA: Attribution Analysis-based Concept Alignment: A Human-centered Data Debugging Framework
 
-This repository contains PyTorch implementation of our paper [AADA: Concept-level Attribution Analysis-based Data Augmentation for Human-centered Data Debugging.]()
+This repository contains PyTorch implementation of our paper [AACA: Attribution Analysis-based Concept Alignment: A Human-centered Data Debugging Framework.]()
 
-![Overview of AADA](figures/framework.jpg)
+![Overview of AACA](figures/framework.jpg)
 
 * This repo is a modification on the [MAE repo](https://github.com/facebookresearch/mae). Installation and preparation follow that repo.
 

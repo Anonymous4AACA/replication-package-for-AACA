@@ -61,6 +61,7 @@ The following table provides the fine-tuned checkpoints used in the paper:
 
 </tbody></table>
 Note: We have uploaded the model to Google Drive, but in order to comply with anonymity guidelines, we have chosen to wait until the article is published before sharing our Google Drive link.
+
 ### Methods Overview
 
 #### S-Random (Random Selection Method)

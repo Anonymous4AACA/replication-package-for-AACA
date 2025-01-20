@@ -36,31 +36,31 @@ The following table provides the fine-tuned checkpoints used in the paper:
 
 <!-- TABLE BODY -->
 <tr><td align="left">S-Random</td>
-<td align="center"><a href="https://drive.google.com/drive/folders/14T2EqYXCLUAPheIUHm9VFZdxLzduN45I">download</a></td>
+<td align="center"><a href="">download</a></td>
 </tr>
 <tr><td align="left">S-Similarity</td>
-<td align="center"><a href="https://drive.google.com/drive/folders/1zhV-jg0qjHDfLyFFn_458dIfHRwBWuqP">download</a></td>
+<td align="center"><a href="">download</a></td>
 
 </tr>
 <tr><td align="left">S-Active Learning</td>
-<td align="center"><a href="https://drive.google.com/drive/folders/1sxSpsx2gQVA0Mdh4IaJgvcoXXdXaF_Su">download</a></td>
+<td align="center"><a href="">download</a></td>
 
 </tr>
 <tr><td align="left">G-LLM</td>
-<td align="center"><a href="https://drive.google.com/drive/folders/1WCyXBOGMomnKLYAT7HB9qxc8yOl6vJlA">download</a></td>
+<td align="center"><a href="">download</a></td>
 </tr>
 <tr><td align="left">G-TG</td>
-<td align="center"><a href="https://drive.google.com/drive/folders/1wTDmIKg2361E5j6IaYL0AR-8g257NvzQ">download</a></td>
+<td align="center"><a href="">download</a></td>
 </tr>
 <tr><td align="left">G-LLM-prompt</td>
-<td align="center"><a href="https://drive.google.com/drive/folders/1QSr7l7UXQYda7oJT6I6dbgWzOfLRGKZD">download</a></td>
+<td align="center"><a href="">download</a></td>
 </tr>
 <tr><td align="left">Ours</td>
-<td align="center"><a href="https://drive.google.com/drive/folders/1jf57OVnTaTEkI7icSU9FVBDT9zHeSCfX">download</a></td>
+<td align="center"><a href="">download</a></td>
 </tr>
 
 </tbody></table>
-
+Note: We have uploaded the model to Google Drive, but in order to comply with anonymity guidelines, we have chosen to wait until the article is published before sharing our Google Drive link.
 ### Methods Overview
 
 #### S-Random (Random Selection Method)
@@ -87,7 +87,7 @@ This is our proposed method, which builds upon G-TG by incorporating **concept-l
 
 ## Datasets
 
-All datasets will be released soon.
+We have uploaded the dataset to Google Drive, but in order to comply with anonymity guidelines, we have chosen to wait until the article is published before sharing our Google Drive link.
 
 
 
